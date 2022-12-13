@@ -35,10 +35,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quavo19&langs_count=8)
-![overview](https://github-readme-streak-stats.herokuapp.com/?user=quavo19&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailChangezi&langs_count=8)
+![overview](https://github-readme-streak-stats.herokuapp.com/?user=IsmailChangezi&)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<a href="mailto"ismailchangezi801@gmail.com"><img src="https://img.shields.io/badge/-ismailchangezi801@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ismailchangezi801@gmail.com"><img src="https://img.shields.io/badge/-ismailchangezi801@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
