@@ -39,7 +39,6 @@
 ![overview](https://github-readme-streak-stats.herokuapp.com/?user=quavo19&)
 
 ## 🤝🏻 &nbsp;Connect with Me
-<a href="https://www.linkedin.com/in/donald-akite-299a31222/"><img src="https://img.shields.io/badge/-Donald%20Akite%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:donaldakite27@gmail.com"><img src="https://img.shields.io/badge/-donaldakite27@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/Donald_Akite_io/"><img src="https://img.shields.io/badge/akiteDonald--E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://web.facebook.com/quavo.donald.9"><img src="https://img.shields.io/badge/-DonaldAkite-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+<a href="mailto"ismailchangezi801@gmail.com"><img src="https://img.shields.io/badge/-ismailchangezi801@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
