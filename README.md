@@ -5,7 +5,7 @@
 
 - 🌱 I’m **[currently available for hire]()**.
 
-- 🔭 I’m currently working with, **ReactJS and SQL **
+- 🔭 I’m currently working with, **Ruby On Rails**
 
 - 📫 You can shoot me an email at **ismailchangezi801@gmail.com** I'll try to respond as soon as I can.
 
